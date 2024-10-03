@@ -11,6 +11,7 @@
 - type: QQ
   icon: "fa-brands fa-qq"
   url: "1752669709"
+  noblank: true
 
 - type: Blog
   icon: "fa-solid fa-blog"
