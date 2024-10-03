@@ -10,7 +10,7 @@
 
 - type: QQ
   icon: "fa-brands fa-qq"
-  url: "1752669709"
+  url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1752669709&website=www.oicqzone.com"
   noblank: true
 
 - type: Blog
