@@ -4,16 +4,20 @@
   icon: "fab fa-github"
   # url: "https://github.com/qipaifeiying"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: home
+  icon: "fa-solid fa-address-book"
+
+- type: QQ
+  icon: "fa-brands fa-qq"
+  noblank: true
+
+- type: WeiXin
+  icon: "fa-brands fa-weixin"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
