@@ -1,12 +1,11 @@
 #  The contact options.
-
-- type: github
-  icon: "fab fa-github"
-  # url: "https://github.com/qipaifeiying"
-
 - type: home
   icon: "fa-solid fa-house-user"
   url: "https://qipaifeiying.github.io/"
+
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/qipaifeiying"
 
 - type: QQ
   icon: "fa-brands fa-qq"
