@@ -6,6 +6,7 @@
 
 - type: home
   icon: "fa-solid fa-address-book"
+  url: "https://qipaifeiying.github.io/"
 
 - type: QQ
   icon: "fa-brands fa-qq"
