@@ -7,11 +7,6 @@
   icon: "fab fa-github"
   url: "https://github.com/qipaifeiying"
 
-- type: QQ
-  icon: "fa-brands fa-qq"
-  url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1752669709&website=www.oicqzone.com"
-  noblank: true
-
 - type: Blog
   icon: "fa-solid fa-blog"
   url: "https://blog.csdn.net/qq_45488453?spm=1000.2115.3001.5343"
